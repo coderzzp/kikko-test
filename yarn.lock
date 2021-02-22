@@ -6746,6 +6746,11 @@ jsprim@^1.2.2:
     array-includes "^3.1.2"
     object.assign "^4.1.2"
 
+kikko-ui@1.0.1:
+  version "1.0.1"
+  resolved "https://registry.npmjs.org/kikko-ui/-/kikko-ui-1.0.1.tgz#01ff82cd319dfca376c9b978950abe7ad814f477"
+  integrity sha512-NgY0MlT9L5tkbAxWVXOBTbbTi/ltdFc5qkofwb9PVeQCm5KzWHJObIfOoYnEFf9gCcCAxY7R5LO+VG9LbOSr7w==
+
 killable@^1.0.1:
   version "1.0.1"
   resolved "https://registry.npmjs.org/killable/-/killable-1.0.1.tgz#4c8ce441187a061c7474fb87ca08e2a638194892"
